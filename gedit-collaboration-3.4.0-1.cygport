@@ -1,0 +1,4 @@
+inherit gnome2
+
+
+KEEP_LA_FILES="none"
