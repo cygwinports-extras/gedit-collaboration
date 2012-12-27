@@ -1,6 +1,0 @@
-category: Gnome Editors
-requires: gedit libcairo2 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk3_0 libgtksourceview3.0_0 libinfgtk0.5_0 libinfinity0.5_0 libpeas1.0_0 libxml2
-sdesc: "Gedit Infinote editing collaboration plugin"
-ldesc: "gedit collaboration plugin provides support for collaborative 
-editing in gedit. It uses libinfinity 0.5 and should work with any 
-infinote 0.5 server."

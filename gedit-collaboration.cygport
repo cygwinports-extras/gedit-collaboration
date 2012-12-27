@@ -1,0 +1,10 @@
+inherit gnome2
+
+NAME="gedit-collaboration"
+VERSION=3.6.0
+RELEASE=1
+CATEGORY="GNOME Editors"
+SUMMARY="Gedit Infinote editing collaboration plugin"
+DESCRIPTION="gedit collaboration plugin provides support for collaborative
+editing in gedit. It uses libinfinity 0.5 and should work with any infinote 0.5
+server."
